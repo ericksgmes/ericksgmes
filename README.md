@@ -1,7 +1,6 @@
 ## Hi there 👋
-[![ericksgmes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksgmes)](https://github.com/ericksgmes/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksgmes&hide=cmake)](https://github.com/ericksgmes/github-readme-stats)
+[![ericksgmes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericksgmes&theme=github_dark_dimmed&show_icons=true)](https://github.com/ericksgmes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericksgmes&hide=cmake&layout=compact&theme=github_dark_dimmed)](https://github.com/ericksgmes/github-readme-stats)
 <!--
 **ericksgmes/ericksgmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
