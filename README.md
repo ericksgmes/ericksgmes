@@ -8,7 +8,7 @@ Understanding and improving yourself is key to a fullfilling life
 
 ### 📌 [StArt](https://github.com/pet-ads/systematic) — Systematic Study Tool
 
-> Java · Spring Boot · JUnit · Swagger · Design Patterns
+> Kotlin · Spring Boot · JUnit · Swagger · Design Patterns
 
 - Implemented a **RIS → StudyReview** converter  
 - Created `@RestController` endpoints, `@Service` layer, and `Presenter` abstractions  
